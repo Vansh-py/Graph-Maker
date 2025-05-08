@@ -1,0 +1,13 @@
+/* color = [#000B58 , 003161 , 006A67 , FFF4B7]; */
+
+*{
+    background-color: #000B58;
+    color :#FFF4B7
+}
+
+header{
+    justify-content: center;
+    text-align: center;
+    font-weight: 500%;
+    font-size: 30px;
+}
